@@ -10,3 +10,8 @@ Belajar kelas memulai dasar pemrograman. (progress 10%)
 Belajar dasar Git dengan Github (progress 18%)
 - Belajar tentang dasar Github. 
 - Belajar cara mengatur version control sebuah aplikasi.
+
+**16 Februari 2022**<br>
+Belajar dasar-dasar kehidupan (progress 100%)
+- Belajar tentang hidup
+- Belajar tentang mati
